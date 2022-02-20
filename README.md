@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Muhammad Syafwan Ardiansyah <sup >17 y.o</sup>
+  Muhammad Syafwan Ardiansyah
 </h1>
 
 <h3 align="center">Languages & Tools</h3>
