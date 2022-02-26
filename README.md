@@ -1,6 +1,4 @@
-<video>
-  <source src="assets/movie.mp4" type="video/mp4">
-</video>
+<img src="assets/banner.gif">
 
 <h1 align="center">
   Muhammad Syafwan Ardiansyah
