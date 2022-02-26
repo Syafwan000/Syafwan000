@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/98/ef/12/98ef12112e10b14096e86da3b52f423a.gif">
-</p>
+<video>
+  <source src="assets/movie.mp4" type="video/mp4">
+</video>
 
 <h1 align="center">
   Muhammad Syafwan Ardiansyah
