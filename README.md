@@ -1,4 +1,4 @@
-<img src="assets/banner.gif">
+<img src="assets/syafwan.gif">
 
 <h1>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
