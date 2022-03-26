@@ -27,10 +27,10 @@
    📃 Recent Project
 </h1>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=mathducation)](https://github.com/Syafwan000/mathducation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=bisa-ngopi)](https://github.com/Syafwan000/bisa-ngopi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=quran-digital)](https://github.com/Syafwan000/quran-digital)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=teymii)](https://github.com/Syafwan000/teymii)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=wikabsensi)](https://github.com/Syafwan000/wikabsensi)
 
 <hr>
 
