@@ -6,7 +6,7 @@
 
 <p>My name is <b><i>Muhammad Syafwan Ardiansyah</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and mobile development</p>
 
-- 🌱 I’m currently learning React, Tailwind and Kotlin
+- 🌱 I’m currently learning React, Tailwind and Flutter
 - 📫 How to reach me
 
 <a href="https://www.instagram.com/safvvan_/" target="_blank">
