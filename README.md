@@ -35,3 +35,9 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafwan000&theme=dark&show_icons=true)
+
+<h1>
+   💪 Support Me
+</h1>
+
+<a href="https://trakteer.id/syafwannnnn">Support Me</a>
