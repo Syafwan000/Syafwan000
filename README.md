@@ -40,4 +40,4 @@
    💪 Support Me
 </h1>
 
-<a href="https://trakteer.id/syafwannnnn">Support Me</a>
+<a href="https://trakteer.id/syafwannnnn" target="_blank">Support Me</a>
