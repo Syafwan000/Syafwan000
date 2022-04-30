@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning React, Tailwind and Flutter
 - 📫 How to reach me
 
+<p><i><b>muhammadsyafwan04@gmail.com</b></i></p>
 <a href="https://www.instagram.com/syafffwan/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
