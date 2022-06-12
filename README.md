@@ -4,6 +4,8 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
 </h1>
 
+![](https://komarev.com/ghpvc/?username=Syafwan000&color=grey&style=for-the-badge)
+
 <p>My name is <b><i>Muhammad Syafwan Ardiansyah</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and mobile development</p>
 
 - 🌱 I’m currently learning React, Tailwind and Flutter
@@ -12,6 +14,7 @@
   - LinkedIn (<a href="https://www.linkedin.com/in/muhammad-syafwan-ardiansyah-843067214/" target="_blank">Muhammad Syafwan Ardiansyah</a>)
   - Instagram (<a href="https://www.instagram.com/syafffwan/" target="_blank">syafffwan</a>)
   - Discord (ShaWann#3019)
+- Portfolio (https://www.syafwan.xyz/)
 
 <h1>
    📖 Skills
