@@ -28,25 +28,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
-<h1>
-   📃 Recent Project
-</h1>
-
-<p align="center">
-  <a href="https://github.com/Syafwan000/noshi-wedding-invitation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=noshi-wedding-invitation&theme=dark" />
-  </a>
-  <a href="https://github.com/Syafwan000/guess-your-crush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=guess-your-crush&theme=dark" />
-  </a>
-  <a href="https://github.com/Syafwan000/bisa-ngopi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=bisa-ngopi&theme=dark" />
-  </a>
-  <a href="https://github.com/Syafwan000/quran-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=quran-digital&theme=dark" />
-  </a>
-</p>
-
 <hr>
 
 <p align="center">
