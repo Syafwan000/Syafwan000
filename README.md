@@ -4,8 +4,6 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
 </h1>
 
-<b>Photo Profile by <a href="https://www.instagram.com/fiq.un/">Fiqun</a></b>
-
 ![](https://komarev.com/ghpvc/?username=Syafwan000&color=grey&style=for-the-badge)
 
 <p>My name is <b><i>Muhammad Syafwan Ardiansyah</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and mobile development</p>
