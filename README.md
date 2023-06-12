@@ -8,13 +8,12 @@
 
 <p>My name is <b><i>Muhammad Syafwan Ardiansyah</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and mobile development</p>
 
-- 🌱 I’m currently learning Vue.js, Tailwind and REST API
 - 📫 How to reach me
   - Email (muhammadsyafwan04@gmail.com)
   - LinkedIn (<a href="https://www.linkedin.com/in/muhammad-syafwan-ardiansyah-843067214/" target="_blank">Muhammad Syafwan Ardiansyah</a>)
   - Instagram (<a href="https://www.instagram.com/syafffwan/" target="_blank">syafffwan</a>)
   - Discord (saf#4035)
-- Portfolio (https://www.syafwan.xyz/)
+- Portfolio ([https://www.syafwan.xyz/](https://syafwan.netlify.app/))
 
 <h1>
    📖 Skills
