@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Syafwan000&color=grey&style=for-the-badge)
 
-<p>Create an app to have fun and make unreal, weird, unique things to make it real with app</p>
+<p>Create an app to have fun and make unreal, weird, unique things to make it real</p>
 
 <h2>Skills</h2>
 <div>
