@@ -1,7 +1,5 @@
 ![Syafwan](assets/github-banner.png)
 
-<h1>Muhammad Syafwan Ardiansyah</h1>
-
 ![](https://komarev.com/ghpvc/?username=Syafwan000&color=grey&style=for-the-badge)
 
 <p>Create an app to have fun and make unreal, weird, unique things to make it real</p>
